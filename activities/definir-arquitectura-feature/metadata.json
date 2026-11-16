@@ -1,0 +1,15 @@
+{
+  "slug": "definir-arquitectura-feature",
+  "languages": [
+    "es",
+    "en",
+    "pt"
+  ],
+  "kind": "simulation",
+  "pgEvent": {
+    "correct": "success",
+    "incorrect": "failure",
+    "restart": "failure",
+    "resultField": "PENDING_CONFIRMATION"
+  }
+}
